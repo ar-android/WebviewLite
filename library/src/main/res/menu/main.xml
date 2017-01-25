@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/group">
+        <item
+            android:id="@+id/open_browser"
+            android:title="@string/open_browser"/>
+        <item
+            android:id="@+id/close"
+            android:title="@string/close"/>
+    </group>
+</menu>

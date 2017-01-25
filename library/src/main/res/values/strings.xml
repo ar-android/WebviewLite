@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebviewLite</string>
+    <string name="loading_video">Loading...</string>
+    <string name="item1">Item 1</string>
+    <string name="open_browser">Open in browser</string>
+    <string name="close">Exit</string>
+    <string name="share">Share</string>
+</resources>
